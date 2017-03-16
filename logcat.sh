@@ -1,0 +1,2 @@
+#!/bin/bash
+adb logcat -s "ERSRequestBuilder", "NotificationService", "ReactNativeJS", "PushListenerService", "ERSRequestBuilder","DefaultNotificationClient", "AndroidRuntime", "Bundle", "Error", "PushManager", "GCMTokenHelper", "AWSMobileClient", "AWSMobileHubModule", "CloudLogicAPIConfiguration", "MobileAnalyticsManager", "CognitoCachingCredentialsProvider","CampaignPushManager", "DefaultDeliveryClient", "GLSUser", "GCM-DMM", "GooglePlayMonetizationEventBuilder", "TargetingClient", "AWSMobileHubPackage", "AWSPushListenerService"
