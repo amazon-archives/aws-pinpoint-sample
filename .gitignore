@@ -52,5 +52,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 
-# AWS Mobile Hub package
+# Mobile hub packages
 android/app/src/main/java/com/amazonaws
+ios/AmazonAws
