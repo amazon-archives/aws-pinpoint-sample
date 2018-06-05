@@ -1,4 +1,4 @@
-This Repo is no longer valid with AWS Mobile Hub. To enable [Push Notifications](https://aws.github.io/aws-amplify/media/push_notifications_setup) in your React Native app use [AWS Amplify](https://github.com/aws/aws-amplify) with [Push Notifications](https://aws.github.io/aws-amplify/media/push_notifications_setup) and [Analytics with Amazon Pinpoint](https://aws.github.io/aws-amplify/media/analytics_guide#using-amazon-pinpoint).
+**This Repo is no longer valid with AWS Mobile Hub. To enable [Push Notifications](https://aws.github.io/aws-amplify/media/push_notifications_setup) in your React Native app use [AWS Amplify](https://github.com/aws/aws-amplify) with [Push Notifications](https://aws.github.io/aws-amplify/media/push_notifications_setup) and [Analytics with Amazon Pinpoint](https://aws.github.io/aws-amplify/media/analytics_guide#using-amazon-pinpoint).**
 
 ----
 
