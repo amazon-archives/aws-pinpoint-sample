@@ -48,4 +48,5 @@ If you are on windows
     logcat
 
 # License
-[https://aws.amazon.com/asl/](https://aws.amazon.com/asl/)
+
+This sample code is made available under the MIT-0 license. See the LICENSE file.
